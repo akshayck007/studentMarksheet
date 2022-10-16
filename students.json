@@ -1,0 +1,38 @@
+[
+    {
+        "studentID": "1",
+        "studentName": "Akshay",
+        "subject1": "45",
+        "subject2": "40",
+        "subject3": "40",
+        "subject4": "40",
+        "subject5": "40"
+    },
+    {
+        "studentID": "2",
+        "studentName": "miller",
+        "subject1": "40",
+        "subject2": "40",
+        "subject3": "40",
+        "subject4": "40",
+        "subject5": "40"
+    },
+    {
+        "studentID": "3",
+        "studentName": "yadav",
+        "subject1": "40",
+        "subject2": "40",
+        "subject3": "40",
+        "subject4": "40",
+        "subject5": "40"
+    },
+    {
+        "studentID": "4",
+        "studentName": "brevis",
+        "subject1": "45",
+        "subject2": "49",
+        "subject3": "48",
+        "subject4": "50",
+        "subject5": "50"
+    }
+]

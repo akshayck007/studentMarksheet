@@ -1,0 +1,14 @@
+{
+  "name": "marksheet",
+  "version": "1.0.0",
+  "description": "Marksheet management system using fastify",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.8.1"
+  }
+}
